@@ -1,0 +1,6 @@
+﻿  Project 2 - Bank Extension.cpp
+D:\ProgrammingAdvice\07 - Algorithms & Problem Solving Level 3\45 and up\Project 2 - Bank Extension\Project 2 - Bank Extension\Project 2 - Bank Extension.cpp(28,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\ProgrammingAdvice\07 - Algorithms & Problem Solving Level 3\45 and up\Project 2 - Bank Extension\Project 2 - Bank Extension\Project 2 - Bank Extension.cpp(266): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\ProgrammingAdvice\07 - Algorithms & Problem Solving Level 3\45 and up\Project 2 - Bank Extension\Project 2 - Bank Extension\Project 2 - Bank Extension.cpp(312): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\ProgrammingAdvice\07 - Algorithms & Problem Solving Level 3\45 and up\Project 2 - Bank Extension\Project 2 - Bank Extension\Project 2 - Bank Extension.cpp(400): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Project 2 - Bank Extension.vcxproj -> D:\ProgrammingAdvice\07 - Algorithms & Problem Solving Level 3\45 and up\Project 2 - Bank Extension\x64\Debug\Project 2 - Bank Extension.exe
